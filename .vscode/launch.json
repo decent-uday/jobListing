@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JobListingApplication<jobListing>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.Uday.jobListing.JobListingApplication",
+            "projectName": "jobListing",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
